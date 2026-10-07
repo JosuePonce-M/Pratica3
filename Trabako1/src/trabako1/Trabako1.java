@@ -9,6 +9,10 @@ public class Trabako1 {
         for (int i = 0; i < 10; i++) {
             System.out.println("Hola");
         }
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
+    
     
 }
